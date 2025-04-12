@@ -1,0 +1,3 @@
+{names: [Hardhat, Mask, NO-Hardhat, NO-Mask, NO-Safety Vest, Person, Safety Cone,
+    Safety Vest, machinery, vehicle,Fire,Smoke], nc: 12, test: D:\final\test,
+  train: D:\final\train, val: D:\final\test}
